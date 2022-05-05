@@ -24,7 +24,8 @@ eleventyNavigation:
 ### 👑 Awards and Certifcations
 - Partipitant of Hull Employability Award.
 - Winner of Society and Volunteering Awards President of the Year.
+- Winner for Hull University Students' Union Awards Course Rep Impact.
+
 - Shortlisted for Society and Volunteering Awards Most Improved Society.
 - Shortlisted for Hull University Students' Union Awards Education Impact.
-- Winner for Hull University Students' Union Awards Course Rep Impact.
 - Shortlisted for Hull University Students' Union Awards Society of the Year.
