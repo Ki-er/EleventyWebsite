@@ -1,5 +1,5 @@
 ---
-title: Chi sono
+title: About Me
 layout: page.njk
 keyword: test
 tags: pages

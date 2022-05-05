@@ -38,6 +38,7 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 * [StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (**Contributed**)
 </details>
 
+
 # 👀 Where To Find Me:
 - Discord: [`Kieran#0981`](https://discord.com/users/360860744977350657)
 - Email: Kieran@Kieranrobson.com
