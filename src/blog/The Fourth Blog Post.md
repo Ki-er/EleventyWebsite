@@ -3,7 +3,7 @@ title: My fourth blog post
 description: This is the third post on my blog asap sa the autenticsb. Soluta ex corrupti quod libero.
 tags: ["post", "personal"]
 date: 2021-06-20
-luogo: Palermo
+location: Palermo
 layout: article.njk
 permalink: "blog/{{ title | slugify }}.html"
 ---
