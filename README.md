@@ -3,8 +3,6 @@
 This is my personal website built upon the [eleventy](https://www.11ty.dev/) framework. 
 
 ### TO-DO
-[] Blog feature
-[] Iron out index page
 - [] Blog feature
 - [] Iron out index page
 
