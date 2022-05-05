@@ -2,16 +2,16 @@ module.exports = {
   //
   // Website Meta
   //  
-  language: "it-IT",
-  lang: "it",
-  siteName: "Minimalism",
-  shortName: "Minimalism",
-  motto: "Simplicity is the ultimate sophistication.",
-  authorName: "Autore",
-  siteDescription: "",
+  language: "en-EN",
+  lang: "en",
+  siteName: "KieranRobson",
+  shortName: "KieranRobson",
+  motto: "",
+  authorName: "Kieran Robson",
+  siteDescription: "Kieran Robson Personal Website",
   sitekeyword: "",
-  creationDate: "02/02/2022", // change this data
-  url: process.env.URL || "https://www.marcomicale.eu", // change this url
+  creationDate: "05/05/2022", // change this data
+  url: process.env.URL || "https://www.Kieranrobson.com", // change this url
   robots: "index, follow",
   //
   // Color App
@@ -21,7 +21,7 @@ module.exports = {
   //
   // Contact me
   //
-  mail: "marcomicale@gmail.com",
+  mail: "Kieranrobson1999@gmail.com",
   telephone: "",
   //
   // Social Network
