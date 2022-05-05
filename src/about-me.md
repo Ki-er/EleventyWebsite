@@ -6,11 +6,11 @@ tags: pages
 permalink: "{{ title | slugify }}.html"
 eleventyNavigation:
   key: "{{ title | slugify }}"
-  title: Chi sono
+  title: About Me
   order: 2
 ---
 
-# Aboute Me
+# About Me
 
 Ab corrupti repellendus magni beatae assumenda dolore temporibus alias cumque nemo rerum, quisquam explicabo vitae dicta aliquam numquam deleniti dolorem iste, sint unde maiores? Illum quas eaque amet ipsum quibusdam, vero perspiciatis repellat veniam, voluptas et eligendi consectetur maxime recusandae cum eos quia tempore impedit ipsa? Laboriosam numquam, eius maiores libero expedita beatae id sit! Dolorem quisquam nisi, in nemo minima sit mollitia, quam voluptatibus et dolores, inventore earum nam ea iste. Accusantium ipsam commodi nam aspernatur aperiam quo illum sapiente expedita autem praesentium at iste possimus atque aliquid reiciendis natus error architecto non provident soluta odit blanditiis, itaque aliquam optio. Minus quisquam eligendi, voluptas quo quae, porro fugiat delectus magnam voluptate numquam pariatur illo debitis praesentium accusantium, amet in. Eveniet non blanditiis debitis.
 
