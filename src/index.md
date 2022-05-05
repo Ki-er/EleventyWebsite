@@ -20,6 +20,7 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 *  [Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A miltipurpose bot for the Innercube Discord server
 *  [hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - A multipurpose bot for the HullCSS Discord server
 *  [KieranRobson.com](https://github.com/KieranRobson/KieranRobson.com) - My personal website
+
 </details>
   
 <details>
@@ -33,12 +34,12 @@ I'm a Bsc computer science student and president of [HullCSS](https://hullcss.or
 
 #### Contributed
 * [awesme](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics (**Contributed**)
-* [awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - A curated list of awesome Pokémon & Pokémon Go tools (**Contributed**)
+* [awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - A curated list of Pokemon & Pokemon Go resources (**Contributed**)
 * [awesome-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) - A curated list of podcasts we like to listen to (**Contributed**)
 * [StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (**Contributed**)
+
 </details>
 
-‎
 
 # 👀 Where To Find Me:
 - Discord: [`Kieran#0981`](https://discord.com/users/360860744977350657)
