@@ -12,7 +12,7 @@ eleventyNavigation:
 
 # About Me
 
-### While at University I have taken extra-curricular activities alongside my studies:
+### 🎓 While at University I have taken extra-curricular activities alongside my studies:
 - Retail staff for HullUniversity Students Union
 - President 21/22 and Social Secretary 20/21 for Hull Computer Science Society
 - Library Volunteer at the Brynmor Jones Library
