@@ -4,7 +4,7 @@ module.exports = {
   //  
   language: "en-EN",
   lang: "en",
-  siteName: "KieranRobson",
+  siteName: "Kieran Robson",
   shortName: "KieranRobson",
   motto: "",
   authorName: "Kieran Robson",
