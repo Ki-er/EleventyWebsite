@@ -22,7 +22,7 @@ type: website
                 <small class="info">
                     <time datetime="{{post.data.date}}">{{post.data.date | readableDate}}</time>&nbsp;&nbsp;&ndash;&nbsp;
                     {{post | readingTime}}
-                    {{post | post.data.tags}}
+                    {{post.data.tags}}
                 </small>
             </li>
         {%- endfor -%}
