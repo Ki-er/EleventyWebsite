@@ -3,7 +3,6 @@ title: My First Blog Post
 description: This is the first post on my blog, lorem ipsum dolor sit amet consectetur adipisicing elit.
 tags: ["post", "personal"]
 date: 2021-06-19
-luogo: Palermo
 layout: article.njk
 permalink: "blog/{{ title | slugify }}.html"
 ---
