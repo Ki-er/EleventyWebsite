@@ -1,7 +1,7 @@
 ---
 title: My second Blog Post
 description: This is the second post on my blog asap sa the autenticsb.
-tags: ["post", "personal"]
+tags: ["personal"]
 date: 2021-06-19
 luogo: Palermo
 layout: article.njk
