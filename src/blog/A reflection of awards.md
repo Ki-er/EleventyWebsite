@@ -1,0 +1,14 @@
+---
+title: My First Post
+description: 
+tags: ["post", "personal", "university"]
+date: 2022-05-6
+layout: article.njk
+permalink: "blog/{{ title | slugify }}.html"
+---
+
+<div class="lead">
+A reflection of the Society and Volunteering and HUSU Awards 2022. 
+</div>
+
+
