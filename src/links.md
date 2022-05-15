@@ -10,6 +10,6 @@ eleventyNavigation:
 ---
 
 
-<span class="bigtext-slogan-thing">Redirecting you to Discord...</span>
+<span class="bigtext-slogan-thing">Redirecting you to links...</span>
 
-<meta http-equiv="refresh" content="0; url=//discord.gg/vnrG9Qc3Cj" />
+<meta http-equiv="refresh" content="0; url=http://64.227.42.139:8080/" />
